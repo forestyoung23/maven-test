@@ -6,7 +6,7 @@
   <groupId>com.forest</groupId>
   <artifactId>maven-test</artifactId>
   <packaging>pom</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <name>maven-test</name>
   <modules>
     <module>maven-provide</module>
