@@ -5,7 +5,7 @@
 
   <groupId>com.forest</groupId>
   <artifactId>maven-service</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>maven-service</name>
   <!-- FIXME change it to the project's website -->
@@ -13,7 +13,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven-provide.version>1.1</maven-provide.version>
+    <maven-provide.version>1.2-SNAPSHOT</maven-provide.version>
   </properties>
 
   <dependencies>
