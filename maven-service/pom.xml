@@ -5,13 +5,13 @@
 
   <groupId>com.forest</groupId>
   <artifactId>maven-service</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.2</version>
 
   <name>maven-service</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven-provide.version>1.2-SNAPSHOT</maven-provide.version>
+    <maven-provide.version>1.2</maven-provide.version>
   </properties>
 
   <dependencies>
